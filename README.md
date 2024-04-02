@@ -37,11 +37,11 @@ section.*
 *Screenshot of the To-Do List app showing a confirmation pop-up for 
 deleting a task.*
 
-![Screenshot 5](screenshots/Screenshot_5.png)
+![Screenshot 5](screenshots/Screenshot_6.png)
 *Screenshot of the To-Do List app showing tasks that match the search 
 results.*
 
-![Screenshot 6](screenshots/Screenshot_6.png)
+![Screenshot 6](screenshots/Screenshot_5.png)
 
 *Screenshot of the To-Do List app on Mobile device.*
 
